@@ -1,0 +1,24 @@
+.bod{
+
+  background-image: url('747964.jpeg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+
+
+}
+
+.bodyLight{
+
+  background-image: url('light_theme.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+
+
+}
+
+
+.hi {
+  background-color: yellow;
+}
